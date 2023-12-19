@@ -1,0 +1,1 @@
+coverage celery django-celery-beat redis requests django djangorestframework django-filter djangorestframework-simplejwt psycopg2-binary pillow python-dotenv django-crispy-forms django-timezone-field django-timezone-field redis drf-yasg django-cors-headers
