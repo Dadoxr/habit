@@ -8,7 +8,7 @@
 
 1)Клонирование репозитория:
 ```bash
-git clone https://github.com/dadoxr/habit.git
+git clone https://github.com/Dadoxr/habit.git
 cd habit
 ```
 
